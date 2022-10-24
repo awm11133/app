@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "812907708251",
+    "project_id": "pika123-e0d3b",
+    "storage_bucket": "pika123-e0d3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812907708251:android:5d4b7f919bcceb27b3647e",
+        "android_client_info": {
+          "package_name": "com.pikaaap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812907708251-f6gvkhd056q0qe24b9s1mib9ev4vp2fi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pikaaap",
+            "certificate_hash": "01eb177f640bcf5402046c8542643a1f484d175f"
+          }
+        },
+        {
+          "client_id": "812907708251-me4q23kfpk8qarebta3bt9a2vvelldke.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pikaaap",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "812907708251-km31lktdajs62737hudtf3bkm898fklj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlutShlDIto3y_Vnz0J63JQSSlDPz_Jqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812907708251-km31lktdajs62737hudtf3bkm898fklj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
